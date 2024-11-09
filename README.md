@@ -35,7 +35,7 @@ _✨ 一个为 NoneBot2 开发悠悠游戏插件 ✨_
 ```python
 pip install nonebot-plugin-yoyogame
 ```
--通过  nb 安装
+-通过 nb-cli 安装
 ```python
 nb plugin install nonebot-plugin-yoyogame
 ```
