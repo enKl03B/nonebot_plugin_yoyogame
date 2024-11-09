@@ -29,15 +29,16 @@ _✨ 一个为 NoneBot2 开发悠悠游戏插件 ✨_
 
 ## 💿 安装
 
-通过`pip`或`nb`安装；
+通过`pip`或`nb`安装：
 
-通过 ** pip **安装
-
-`pip install nonebot-plugin-yoyogame`
-
-通过 ** nb **安装
-
-`nb plugin install nonebot-plugin-yoyogame`
+- 通过 pip 安装
+```python
+pip install nonebot-plugin-yoyogame
+```
+-通过  nb 安装
+```python
+nb plugin install nonebot-plugin-yoyogame
+```
 
 ## ⚙ 配置
 没有配置，因为现在几乎没啥功能喵
